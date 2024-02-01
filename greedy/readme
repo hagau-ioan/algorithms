@@ -1,0 +1,2 @@
+Greedy: means that we need to find the fastest solution in the fastest time even another solution would be better.
+Usually this doesn't require a recursion.
