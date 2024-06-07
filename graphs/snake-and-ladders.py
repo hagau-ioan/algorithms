@@ -1,4 +1,4 @@
-import random
+
 import time
 
 import numpy as np
@@ -81,8 +81,6 @@ if __name__ == '__main__':
     matrix[3][1] = 35
     matrix[3][4] = 13
     matrix[5][1] = 15
-
-    # matrix[1][1] = 3
 
     print(matrix_nr)
     print(matrix)

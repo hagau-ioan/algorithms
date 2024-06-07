@@ -59,7 +59,7 @@ def print_matrix(matrix: ndarray):
 
 
 if __name__ == '__main__':
-    matrix_size = 4
+    matrix_size = 6
     start_time = time.time()
     # 4 == 2; 5 == 10; 6 == 4; 7 = 40; 8 = 92 --> size == solutions
     print("{}".format(solution(matrix_size)))
