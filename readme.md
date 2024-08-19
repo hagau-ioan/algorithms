@@ -7,12 +7,7 @@
 
 # References
 1. https://info.mcip.ro/index.php
+2. https://leetcode.com/studyplan/top-interview-150/
 
 
 
-# Algoritmi TODO:
-
-1. Problem to match the parantessies to close each other: use a stak of elements and to find the pair
-2. dynamic programming: memozision -->  hashtables, list, set
-3. manipulate multiple pointers at same time: ex: a string which require to maniula from first to last and from last to first. The longest palindormin substring into a string. Traverse the fisrt string. Start frm the middle and go into left and right and to check the words: could be a merge sort ideea?
-4. mirror a binary tree: left <-> right
